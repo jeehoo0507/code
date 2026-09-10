@@ -1,1 +1,5 @@
 .DS_Store
+
+# Downloaded datasets and experiment outputs
+/data/
+/results/
